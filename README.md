@@ -1,5 +1,5 @@
-# Churn Prediction Explanations
-This repository hosts a prototype of an Explainable AI platform for Financial Counseling. The platform aims to provide transparent insights for customers who are at risk of leaving a financial service. The prototype includes three churn prediction models (Logistic Regression, Random Forest and KNN) along with explanations generated using SHAP.
+# Explainable AI for Financial Advisory: Churn Prediction
+This repository hosts a prototype of an Explainable AI platform for Financial Advisory. The platform aims to provide transparent insights for customers who are at risk of leaving a financial service. The prototype includes three churn prediction models (Logistic Regression, Random Forest and KNN) along with explanations generated using SHAP.
 
 ## Repository Contents
 data/\
